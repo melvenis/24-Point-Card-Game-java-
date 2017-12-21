@@ -7,13 +7,13 @@ Tracks user stats, shows possible solutions
 Allows for multiple users
 
 #Sample Games
-<img src="images/about.png" alt="About the Game"/>
+<img src="images/about.PNG" alt="About the Game"/>
 
-<img src="images/1.png" alt="In Game Play"/>
+<img src="images/1.PNG" alt="In Game Play"/>
 
-<img src="images/2.png" alt="Player Statistics"/>
+<img src="images/2.PNG" alt="Player Statistics"/>
 
-<img src="images/3.png" alt="Multiple User Support"/>
+<img src="images/3.PNG" alt="Multiple User Support"/>
 
 #Author
 Mel Leggett 02/2017
