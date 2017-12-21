@@ -1,13 +1,12 @@
 # 24-Point-Card-Game-java-
 Popular card game from Shanghai China, 1960s
 
-#Game Function
+# Game Function
 Uses a GUI to allow players to play the 24 point game
 Tracks user stats, shows possible solutions
 Allows for multiple users
 
-#Sample Games
-
+# Sample Game
 <img src="images/a.PNG" alt="About the Game"/>
 
 <img src="images/1.PNG" alt="In Game Play"/>
@@ -16,5 +15,5 @@ Allows for multiple users
 
 <img src="images/3.PNG" alt="Multiple User Support"/>
 
-#Author
+# Author
 Mel Leggett 02/2017
