@@ -7,7 +7,7 @@ Tracks user stats, shows possible solutions
 Allows for multiple users
 
 #Sample Games
-<img src="images/about.PNG" alt="About the Game"/>
+<img src="images/0.PNG" alt="About the Game"/>
 
 <img src="images/1.PNG" alt="In Game Play"/>
 
