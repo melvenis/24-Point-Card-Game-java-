@@ -2,7 +2,7 @@
 Popular card game from Shanghai China, 1960s
 
 # Game Function
-Uses a GUI to allow players to play the 24 point game
+Uses a GUI to allow players to play the 24 point game \n
 Tracks user stats, shows possible solutions
 Allows for multiple users
 
